@@ -2,7 +2,12 @@ body{
     background: #cccccc
 }
 
+#banner{
+
+}
+
 h1{
+
     text-align: center;
 }
 
@@ -10,8 +15,10 @@ p{}
 
 
 
-
+#missao{
+    font-size: 20px;
+}
 
 em strong{
-    color: red;
+    color: #FF0000;
 }
